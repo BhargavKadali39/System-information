@@ -15,3 +15,6 @@ Output:
         processor: AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
         Python version: 3.9.7
         Python implementation: CPython
+
+here the node is equivalent to the value of host in my previous repo regarding socket, which 
+you can find link by clicking here.
