@@ -27,3 +27,6 @@ These are some problems faced by me and others hope you can help me it would be 
 
 > All my installed modules are showing as nill.
 
+> Should I change the path?
+
+> Comment to this repo or give a pull request it's hacktober for a reason.
