@@ -23,3 +23,7 @@ to make it faster so behind the screen there is some c programming going on whi 
 
 * I actually have python 3.9.7 and 3.10 both installed so I'm having some difficulties processing them together.
 These are some problems faced by me and others hope you can help me it would be so jice of you.
+> The command prompt is unable to decide the execution between both versions.
+
+> All my installed modules are showing as nill.
+
