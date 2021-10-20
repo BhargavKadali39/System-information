@@ -16,5 +16,6 @@ Output:
         Python version: 3.9.7
         Python implementation: CPython
 
-here the node is equivalent to the value of host in my previous repo regarding socket, which 
+* here the node is equivalent to the value of host in my previous repo regarding socket, which 
 you can find link by [licking here](https://github.com/BhargavKadali39/ip_address_finder)
+* The python implementation is basically saying Cpython which means
