@@ -21,8 +21,10 @@ you can find link by [licking here](https://github.com/BhargavKadali39/ip_addres
 * The python implementation is basically saying Cpython which mea.ns, originally python was interpreted through CProgramming 
 to make it faster so behind the screen there is some c programming going on whi h we don't see and this is a well known fact about python.
 
-* I actually have python 3.9.7 and 3.10 both installed so I'm having some difficulties processing them together.
-<br>These are some problems faced by me and others hope you can help me it would be so jice of you.
+* I actually have python 3.9.7 and 3.10 both installed so I'm having some difficulties processing them together.  
+
+<br>I could use some help if someone's up, these are some problems faced by me.
+
 > The command prompt is unable to decide the execution between both versions.
 
 > All my installed modules are showing as nill.
