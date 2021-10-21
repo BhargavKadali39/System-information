@@ -17,7 +17,7 @@ Output:
         Python implementation: CPython
 
 * here the node is equivalent to the value of host in my previous repo regarding socket, which 
-you can find link by [licking here](https://github.com/BhargavKadali39/ip_address_finder)
+you can find link by [clicking here](https://github.com/BhargavKadali39/ip_address_finder)
 * The python implementation is basically saying Cpython which mea.ns, originally python was interpreted through CProgramming 
 to make it faster so behind the screen there is some c programming going on whi h we don't see and this is a well known fact about python.
 
